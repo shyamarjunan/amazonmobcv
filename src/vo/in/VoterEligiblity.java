@@ -9,6 +9,7 @@ public static void main(String[] args) {
 	int age = sc.nextInt();
 	if (age>=18) {
 		System.out.println("Eligble to vote");
+		System.out.println("valid");
 	}
 	else {
 		System.out.println("Not eligible");
