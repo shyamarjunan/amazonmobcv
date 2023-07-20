@@ -9,10 +9,10 @@ public static void main(String[] args) {
 	int age = sc.nextInt();
 	if (age>=18) {
 		System.out.println("Eligble to vote");
-		
 	}
 	else {
 		System.out.println("Not eligible");
 	}
+	System.out.println("code bt jeeva");
 	}
 }
